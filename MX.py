@@ -1358,6 +1358,4 @@ def Subscraption():
                 os.system("clear")
                 print(logo)
                 Subscraption()
-Main()
-
-[Program finished]
+Main() 
